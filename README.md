@@ -36,9 +36,8 @@ My project is a simple store. I build it to learn about routing in React.
 
 	-   learned about bundling and how to to prevent bundle growth;
 	-   learned about React.lazy and used it in project for optimization;
-	-   learned about delay and how Suspense component works;
-	-   Learned about how lazy works with suspense;
+	-   learned about the delay and how the Suspense component works;
 
--   build a fakeAPI for project;
--   build a functional search in app;
--   styled app using CSS in JS.
+-  build a fake API for the project;
+-  build a functional search in the app;
+-  styled app using CSS in JS.
